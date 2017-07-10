@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Emmet Andrews</h1>
-<p>Hi, my name is Emmet Andrews, welcome to my twisted mind!</p>
+---
+title: This will be used as the title-tag of the page head
+---
 
-<p>I eat spagetti and tunna fich, good for boones, thank</p>
+# This is a H1
 
-</body>
-</html>
+[the clickable text](http://xlson.com/)
+
+* Bullet lists are also easy to create
+* One more
