@@ -2,6 +2,10 @@
   border: 1px solid rgba(0,0,0,0.3)
 }
 
+.navigation {
+  text align: center;
+}
+
 .navigation li {
   color: Blue;
   display: inline-block;
