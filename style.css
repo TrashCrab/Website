@@ -3,13 +3,12 @@
 }
 
 .navigation {
-  text align: center;
+  text-align: center;
 }
 
 .navigation li {
   color: Blue;
   display: inline-block;
-  text align: center;
   width: 100%;	
 }
 
@@ -24,4 +23,11 @@ h1 {
 }
  
 
-/* use google font directory to get the correct font on a web page every time! */
+/* 
+
+use google font directory to get the correct font on a web page every time! 
+
+overflow: scroll; to put all overflow into a scrollable box.
+
+
+*/
