@@ -6,10 +6,14 @@
   text-align: center;
 }
 
+.navigation ul {
+  padding: 0;
+}
+
 .navigation li {
   color: Blue;
   display: inline-block;
-  width: 100%;	
+  margin: 20px;	
 }
 
 h1 {
