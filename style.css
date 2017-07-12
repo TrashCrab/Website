@@ -2,12 +2,12 @@
   border: 1px solid rgba(0,0,0,0.3)
 }
 
-h1 {
+.navigation li {
   color: Blue;
-  text-align: center;	
+  display: inline-block;	
 }
 
-h2 {
+h1 {
   color: Aqua;
   text-align: center;
 }
