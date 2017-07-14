@@ -33,7 +33,8 @@ h1 {
  
 .main{
   height: 95vh;
-  background-color: DarkCyan;
+  background-image: url ("pictures/aesthic-background.jpg");
+  background-size: cover;
 }
 
 /* 
