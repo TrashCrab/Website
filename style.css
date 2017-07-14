@@ -33,8 +33,9 @@ h1 {
  
 .main{
   height: 95vh;
-  background-image: url(aesthetic-background.jpg);
+  background-image: url(images/aesthetic-background.jpg);
   background-size: cover;
+  background-position: center;
 }
 
 /* 
