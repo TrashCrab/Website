@@ -4,3 +4,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+.cloudleft {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
