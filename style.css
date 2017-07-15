@@ -42,6 +42,8 @@ h1 {
   position: fixed;
   bottom: 0px;
   left: 0px;
+  max-width:200px;
+  height: auto;
   
 }
 
