@@ -38,6 +38,13 @@ h1 {
   background-position: center;
 }
 
+#cloudleft {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  
+}
+
 /* 
 
 use google font directory to get the correct font on a web page every time! 
