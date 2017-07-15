@@ -10,3 +10,9 @@ body {
   bottom: 0px;
   left: 0px;
 }
+
+.cloudright {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
