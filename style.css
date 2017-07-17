@@ -17,4 +17,9 @@ body {
   right: 0px;
 }
 
+.main {
+  display:none;
+}
+
+
 /* update */
