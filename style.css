@@ -17,6 +17,10 @@ body {
   right: 0px;
 }
 
+.centername {
+  position: absolute;
+}
+
 
 
 /* update */
